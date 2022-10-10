@@ -8,7 +8,7 @@ I'm a graduate student at Northeastern University studying Computer Science. Pre
 [<img align="left" alt="pandey.har@northeastern.com | E-mail" title="pandey.har@northeastern.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:pandey.har@northeastern.com)
 
 [<img align="left" alt="abheesht-sharma-567303156 | LinkedIn" title="harshit-pandey-a77302173" width="22px" height="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg" />](https://www.linkedin.com/in/harshit-pandey-a77302173/)
-
+<br><br>
 ### Languages and Tools:
 
 <div>
