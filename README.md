@@ -26,7 +26,7 @@ I'm a graduate student at Northeastern University studying Computer Science. Pre
 </div>
 
 <br/><br/>
-<img align="left" alt="abheesht17's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=abheesht17&show_icons=true&hide_border=true" />
+<img align="left" alt="harsh4799's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=harsh4799&show_icons=true&hide_border=true" />
 
 <!--
 **harsh4799/harsh4799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
