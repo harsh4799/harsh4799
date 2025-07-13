@@ -1,40 +1,33 @@
-### Hi there, My name is Harshit Pandey 👋
-I'm a graduate student at Northeastern University studying Computer Science. Previously, I was working at Cognizant as an ML Engineer in the Cybersecurity Detection & Monitoring team. I formerly interned at Merkle Sokrati, as a full-stack developer. I am passionate about engineering new deep learning architectures and developing novel machine learning models with a keen interest in Natural Language Processing. 
+### Hi there, I'm Harshit Pandey 👋
 
+I'm a Machine Learning Engineer focused on NLP, LLMs, and production ML systems. Currently working at **Lendbuzz** on cutting-edge chatbots and OCR models in fintech.
 
-### 📫 How to reach me: 
-[<img align="left" alt="pandey.har@northeastern.com | E-mail" title="pandey.har@northeastern.com" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg"/>](mailto:pandey.har@northeastern.com)
+Previously, I contributed to cybersecurity ML systems at Cognizant and conducted research at Northeastern University focused on NLP and timeseries analysis.
 
-[<img align="left" alt="abheesht-sharma-567303156 | LinkedIn" title="harshit-pandey-a77302173" width="22px" height="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg" />](https://www.linkedin.com/in/harshit-pandey-a77302173/)
-<br>
-### Languages and Tools:
+---
+
+### 📫 How to reach me:
+
+[<img align="left" alt="Email" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:hp2pandey1@gmail.com)  
+[<img align="left" alt="LinkedIn" width="22px" height="22px" src="https://github.com/FortAwesome/Font-Awesome/blob/master/svgs/brands/linkedin-in.svg?raw=true" />](https://www.linkedin.com/in/harshit-pandey-a77302173/)  
+[<img align="left" alt="GitHub" width="22px" height="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/harsh4799)
+
+<br clear="both"/>
+
+---
+
+### 🛠️ Skills & Tools
 
 <div>
-<img align="left" alt="Python" width="26px" height="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="left" alt="Java" width="26px" height="26px" title="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="PyTorch" width="26px" height="26px"title="PyTorch" "https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" />
-<img align="left" alt="HuggingFace" width="26px" height="26px" title="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo.svg" />
-<img align="left" alt="LaTeX" width="26px" height="26px" title="LaTeX" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="Linux" width="26px" height="26px"title="Linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Visual Studio Code" width="26px" height="26px" title="VSCode" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Git" width="26px"  height="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" height="26px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="HTML5" width="26px" height="26px"  title="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="26px" height="26px"  title="CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align="left" alt="Python" width="26px" height="26px" title="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+  <img align="left" alt="Machine Learning" width="26px" height="26px" title="Machine Learning" src="https://raw.githubusercontent.com/github/explore/0d3f380f6f746292cb87bb56e63ca0a7a8d4f6cd/topics/machine-learning/machine-learning.png" />
+  <img align="left" alt="PyTorch" width="26px" height="26px" title="PyTorch" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" />
+  <img align="left" alt="FastAPI" width="26px" height="26px" title="FastAPI" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" />
+  <img align="left" alt="Docker" width="26px" height="26px" title="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+  <img align="left" alt="AWS" width="26px" height="26px" title="AWS" src="https://raw.githubusercontent.com/github/explore/bf6e4f48c993d8025080a18ecfcf3b833496bbdd/topics/aws/aws.png" />
+  <img align="left" alt="Git" width="26px" height="26px" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 </div>
 
-<br/>
-<!--
-**harsh4799/harsh4799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="both"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
